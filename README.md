@@ -12,3 +12,5 @@ Script Edited By:
 ```
 
 The source file is extracted paragraph by paragraph. Each paragraph forms a row in the table along with the scene number, duration (half the word count rounded up) and the visual or audio. If a paragraph begins with "Onscreen title:" it fills the visual column with the title and fills audio column with "**MUSIC**", if it begins with "Chapter heading:" it fills the visual column with the chapter heading and leaves the audio column blank. Otherwise, it just fills the audio column and ignores the visual.
+
+**Note:** this project has been superseded by [https://github.com/skibbi3/graphical-script-builder](Graphical script builder) and has now been archived.
